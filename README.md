@@ -9,6 +9,13 @@ Utilize o repositório do professor [Ricardo Carubbi](https://github.com/carubbi
 
 Além disso, existem resuloções dele que podem ser úteis
 
+## REGRAS PARA UM BOM ESTUDO
+
+1. Tente pensar em resoluções autorais, deixe para ver a resposta do Prof ou da IA em último caso
+2. Utilize papel e caneta quando se sentir que não sabe para onde ir
+3. Apenas use a IA para auxiliar, assim como um monitor faria.
+4. Mesmo que um código não funcione, coloque ele no Git
+
 ## Última atualização
 
 16/10/2026
