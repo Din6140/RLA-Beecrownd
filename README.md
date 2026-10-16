@@ -11,4 +11,4 @@ Além disso, existem resuloções dele que podem ser úteis
 
 ## Última atualização
 
-10/08/2026
+16/10/2026
